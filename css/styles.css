@@ -1,1 +1,40 @@
 /* TODO: Add your styles here */
+body {
+
+    font-family: "calibri", sans-serif;
+    font-size: 12pt;
+    margin: 0px;
+    background-color: #c3ffbc
+
+}
+
+h1 {
+
+    text-align: center;
+    color: #281b1c;
+    background-color: #ff4a1c;
+    padding: 10px;
+
+}
+
+.question {
+
+    font-weight: bold;
+    font-style: italic;
+    font-size: 12.5pt;
+    line-height: 1.4;
+}
+
+div {
+
+  margin-left: 5px;
+  margin-right: 5px;
+
+}
+
+img{
+
+  float: right;
+  margin-right: 15px;
+
+}
